@@ -1,0 +1,1 @@
+SCHTASKS /Create /SC ONCE /TN spawn /TR notepad.exe /ST 20:20

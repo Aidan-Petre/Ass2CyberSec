@@ -1,0 +1,3 @@
+Could not retrieve my CPE_HELPER.json file due to permission issues. The file is edited and finished up to standard for the assignment. My powerpoint and word doc show the wazuh scan results and they pickup all the programs that were added into the cpe_helper. File is on kali desktop but can no longer access it.
+
+As the wazuh scan worked it is clear that the cpe_helper file has been edited corecrtly.
